@@ -1,0 +1,162 @@
+body {
+  background-color: hsl(229, 57%, 11%);
+  background-image: url("images/bg-desktop.png");
+  background-repeat: no-repeat;
+  background-position: -170px 300px;
+
+
+
+
+}
+
+
+
+.fylo {
+  width: 300px;
+  height: 200px;
+  background-color: hsl(228, 56%, 26%);
+  border-top-left-radius: 10px;
+  border-top-right-radius: 50%;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  position: absolute;
+  top: 180px;
+  left: 150px;
+}
+
+.cloud {
+  width: 200px;
+  height: 100px;
+  background-color: white;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  position: absolute;
+  top: 170px;
+  right: 300px;
+
+}
+
+.triangle {
+  width: 0;
+  height: 0;
+  border-top: 30px solid white;
+  border-left: 30px solid transparent;
+  position: absolute;
+  top: 100px;
+  right: 0px;
+}
+
+.header {
+  width: 600px;
+  height: 150px;
+  background-color: hsl(228, 56%, 26%);
+  border-radius: 10px;
+  position: absolute;
+  top: 230px;
+  left: 500px;
+}
+.positioning {
+  position: relative;
+}
+
+h1 {
+font-family: 'Raleway', sans-serif;
+color: hsl(243, 100%, 93%);
+font-size: 15px;
+position: absolute;
+top: 25px;
+left: 40px;
+}
+
+h2 {
+font-family: 'Raleway', sans-serif;
+color: black;
+font-size: 35px;
+text-align: center;
+
+
+}
+
+h3 {
+font-family: 'Raleway', sans-serif;
+color: white;
+position: absolute;
+top: 92px;
+left: 40px;
+}
+
+h4 {
+font-family: 'Raleway', sans-serif;
+color: white;
+position: absolute;
+top: 92px;
+left: 480px;
+}
+
+strong {
+  color: white;
+}
+.gb {
+  color: hsl(229, 7%, 55%);
+  font-size: 15px;
+}
+.dark-div {
+  width: 500px;
+  height: 30px;
+  border-radius: 30px;
+  background-color: hsl(229, 57%, 11%);
+  border: none;
+  position: absolute;
+  top: 70px;
+  left: 40px;
+}
+
+.red-div {
+  width: 350px;
+  height: 25px;
+  border-radius: 30px;
+  background-image: linear-gradient(to right, #ffa399, #ff4d97);
+  border: none;
+  position: absolute;
+  top: 72px;
+  left: 45px;
+}
+
+.circle-div {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background-color: white;
+  border: none;
+  position: absolute;
+  top: 72px;
+  left: 368px;
+}
+ img {
+    background-color: hsl(229, 57%, 11%);
+    width: 20px;
+    height: 20px;
+    padding: 10px;
+    margin-right: 10px;
+
+
+ }
+
+ .logo {
+   background-color: hsl(228, 56%, 26%);
+   width: 100px;
+   height: 30px;
+   position: absolute;
+   top: 30px;
+   left: 40px;
+
+ }
+ .fylo2 {
+   position: relative;
+ }
+ .images {
+   position: absolute;
+   top: 100px;
+   left: 40px;
+ }
